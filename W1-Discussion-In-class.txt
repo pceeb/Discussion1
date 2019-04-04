@@ -1,0 +1,12 @@
+## Year in college: 3rd year  
+
+
+## Computing experience: Not much. Some SageMath/Python experience from the LS30 course, but that was mainly making functions and graphs.   
+
+
+## Mention a topic from biology or any other field that interest you: I like conservation biology, especially how the protection of endangered species or habitats involves considering lots of different non-scientific aspects (such as the local culture and community, CITES and other international laws, capitalism and the globalizaton of trade etc.) I also like protected area management and parts of animal behaviour to do with self-awareness.    
+
+
+## Describe what would like to do as a project for this class: I'm not too sure yet. I am working in a lab that studies collective behaviour/ the 'hive mind' in ant colonies and am planning on starting my own research in the next few quarters. In the lab I work with a MatLab program to track the behaviours of different ants in video files. I would like to develop my skills so I can code my own program to track ants, but am not too sure about my research topic or direction just yet.
+ 
+
