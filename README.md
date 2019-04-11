@@ -1,9 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
+
 In-class exercise and HW for eeb-177  
 
 # My Favourite Animal    
