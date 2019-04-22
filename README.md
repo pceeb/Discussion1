@@ -17,3 +17,23 @@ In-class exercise and HW for eeb-177
 ![Look how cute! They're always smiling](https://i.imgur.com/qZ7VHqy.jpg)
 
 [click here to learn more about dugongs on youtube!](https://www.youtube.com/watch?v=YProaycNpHE)
+
+
+## Grade Duscission #1: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
+
+
+## Grade Duscission #2: 20/20
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Challenge - Effort | **X** | | | |
+| Challenge - Accuracy | **X** | | | |
+| Challenge - Timely Submission | **X** | | | |
